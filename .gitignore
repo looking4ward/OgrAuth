@@ -1,0 +1,4 @@
+# exclude the following directories
+/hooks
+/platforms
+/plugins
